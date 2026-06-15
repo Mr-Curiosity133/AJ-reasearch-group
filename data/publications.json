@@ -1,0 +1,466 @@
+[
+  {
+    "title": "SO2F2 Mediated Click Chemistry Enables Modular Disulfide Formation in Diverse Reaction Media.",
+    "authors": "Li, H.; Peng, M.; Li, J.; Wang, L.; Do, H.; Ni, K.; Wang, M.; Yuan, Z.; Zhao, T.; Zhang, X.; Zhang, X; Hu, Z.; Ren, F.; An, J.",
+    "citation": "Nat Commun 2024, 15 (1), 8325.",
+    "doi": "https://doi.org/10.1038/s41467-024-52606-w",
+    "isFeatured": true,
+    "image": "images/publications/pub-1.webp"
+  },
+  {
+    "title": "Intramolecular Chalcogen Bonding Activated SuFEx Click Chemistry for Efficient Organic-Inorganic Linking.",
+    "authors": "Wang, M.; Hou, J.; Do, H.; Wang, C.; Zhang, X.; Du, Y.; Dong, Q.; Wang, L.; Ni, K.; Ren, F.; An, J.",
+    "citation": "Nat Commun 2024, 15 (1), 6849.",
+    "doi": "https://doi.org/10.1038/s41467-024-50922-9",
+    "isFeatured": true,
+    "image": "images/publications/pub-2.webp"
+  },
+  {
+    "title": "Selective Synthesis of Unsymmetrical Disulfides from Thiols via Water-Removable SuFEx Reagent.",
+    "authors": "Hou, J.; Wang, M.; Qin, X.; Peng, R.; Li, H.; Zhang, X.; Zhang, X.; Han, M.; An, J.",
+    "citation": "Org. Lett. 2025, 27 (27), 7434–7438.",
+    "doi": "https://doi.org/10.1021/acs.orglett.5c02260",
+    "isFeatured": true,
+    "image": "images/publications/pub-5.jpeg"
+  },
+  {
+    "title": "Pentafluorophenyl Esters: Highly Chemoselective Ketyl Precursors for the Synthesis of α,α-Dideuterio Alcohols Using SmI2 and D2O as a Deuterium Source.",
+    "authors": "Li, H.; Hou, Y.; Liu, C.; Lai, Z.; Ning, L.; Szostak, R.; Szostak, M.; An, J.",
+    "citation": "Org. Lett. 2020, 22 (4), 1249–1253.",
+    "doi": "https://doi.org/10.1021/acs.orglett.9b04383",
+    "isFeatured": true,
+    "image": ""
+  },
+  {
+    "title": "Biocide-Encapsulated Core–Shell Polymer Microspheres: A Novel Approach for Preparing Long-Lasting Antimicrobial Coatings.",
+    "authors": "Wang, C.; Zhao, B.; Zhang, X.; Zhong, X.; Chen, L.; Qin, X.; Yang, R.; Hou, J.; Wang, M.; An, J.",
+    "citation": "Prog. Org. Coat. 2024, 196, 108722.",
+    "doi": "https://doi.org/10.1016/j.porgcoat.2024.108722",
+    "isFeatured": true,
+    "image": ""
+  },
+  {
+    "title": "Critical Influence of Alkene Substitutions on POSS in Enhancing Properties of Polyacrylate Composites.",
+    "authors": "Wang, C.; Zhang, X.; Qin, X.; Chen, L.; Yang, R.; Wang, M.; Zhong, X.; An, J.",
+    "citation": "Materials Today Commun. 2025, 43, 111707.",
+    "doi": "https://doi.org/10.1016/j.mtcomm.2025.111707",
+    "isFeatured": true,
+    "image": ""
+  },
+  {
+    "title": "Thioacids as Precursors for the Synthesis of α,α-Dideuterio Alcohols Using Mild SmI2–D2O.",
+    "authors": "Li, H.; Zhang, Y.; Li, X.; Wang, K.; Zhao, W.; Zhang, Y.; An, J.; Hu, Z.; Shi, B.",
+    "citation": "Org. Biomol. Chem. 2025, 23 (41), 9351–9355.",
+    "doi": "https://doi.org/10.1039/D5OB01313E",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Deuteration-Based Design, Green Synthesis, and Insecticidal Activity of Hexacyclic Pyrazol-3-Amide Derivatives as Insect Growth Regulators.",
+    "authors": "Luo, S.; Guo, B.; Liu, Y.; Feng, Y.; Cao, C.; An, J.; Chen, L.; Zhang, L.; Yang, Q.; Yang, X.",
+    "citation": "J. Agric. Food Chem. 2025, 73 (16), 9499–9507.",
+    "doi": "https://doi.org/10.1021/acs.jafc.4c09448",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Base-Free SuFEx Reaction Promoted by Silica Gel for the Synthesis of β-Sultams.",
+    "authors": "Qin, X.; Wang, M.; Hou, J.; Chen, L.; Wang, C.; Peng, R.; Li, X.; An, J.",
+    "citation": "Org. Lett. 2025, 27 (7), 1596–1601.",
+    "doi": "https://doi.org/10.1021/acs.orglett.4c04247",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Switchable SuFEx Linker Chemistry for Efficient Coupling of Alcohols, Thiols, and Selenols with O-/N-Nucleophiles.",
+    "authors": "Wang, M.; Hou, J.; Chen, L.; Qin, X.; Li, X.; Peng, R.; Li, L.; Wang, C.; Zhang, X.; An, J.",
+    "citation": "ChemRxiv 2025 (0117).",
+    "doi": "https://doi.org/10.26434/chemrxiv-2025-41b4m",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Highly Chemoselective Synthesis of α,α-Dideuterio Amines by the Reductive Deuteration of Thioamides Using Mild SmI2–D2O.",
+    "authors": "Li, H.; Wang, K; Zhao, W.; Li, X.; Fu, Y.; Do, H.; An, J.; Hu, Z.",
+    "citation": "Org. Lett. 2024, 26 (42), 9120–9125.",
+    "doi": "https://doi.org/10.1021/acs.orglett.4c03434",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Synergistic Antioxidant Effects of Cysteine Derivative and Sm-Cluster for Food Applications.",
+    "authors": "Chen, L.; Wang, L.; Ma, L.; Wang, C.; Qin, X.; Wang, M.; Zhang, X.; Yang, R.; Fang, B.; An, J.",
+    "citation": "Antioxidants 2024, 13 (8), 910.",
+    "doi": "https://doi.org/10.3390/antiox13080910",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "A Recyclable Inorganic Lanthanide Cluster Catalyst for Chemoselective Aerobic Oxidation of Thiols.",
+    "authors": "Wang, L.; Qin, Z.; Chen, L.; Qin, X.; Hou, J.; Wang, C.; Li, X.; Duan, H.; Fang, B.; Wang, M.; An, J.",
+    "citation": "Molecules 2024, 29 (14), 3361.",
+    "doi": "https://doi.org/10.3390/molecules29143361",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Samarium-Oxo/Hydroxy Cluster: A Solar Photocatalyst for Chemoselective Aerobic Oxidation of Thiols for Disulfide Synthesis.",
+    "authors": "Wang, L.; Chen, L.; Qin, Z.; Zhao, B.; Ni, K.; Li, H.; Li, J.; Duan, H.; Ren, F.; An, J.",
+    "citation": "J. Org. Chem. 2024, 89 (12), 8357–8362.",
+    "doi": "https://doi.org/10.1021/acs.joc.4c00104",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Innovative Application of Polyether Amine as a Recyclable Catalyst in Aerobic Thiophenol Oxidation.",
+    "authors": "Chen, L.; Li, J.; Ni, K.; Qin, X.; Wang, L.; Hou, J.; Wang, C.; Li, X.; Wang, M.; An, J.",
+    "citation": "Organics 2024, 5 (2), 59–70.",
+    "doi": "https://doi.org/10.3390/org5020005",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Single Electron Transfer Reductive Deuteration of Acyl Chlorides for the Synthesis of Deuterated Alcohols with a High Deuterium Atom Economy.",
+    "authors": "Li, H.; Peng, M.; Wang, L.; Jiang, T.; Li, X.; Fu, Y.; Hu, Z.; An, J.",
+    "citation": "Org. Lett. 2024, 26 (3), 719–723.",
+    "doi": "https://doi.org/10.1021/acs.orglett.3c04155",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Switchable SuFEx Linker Chemistry for Sequential Assembly of Heterocycles and Phenols Enabled by Intramolecular Non-Covalent Interactions.",
+    "authors": "An, J.; Hou, J.; Wang, M.; Qin, X.; Wang, C.; Chen, L.; Peng, R.; Li, L.; Zhang, X.",
+    "citation": "ChemRxiv 2024 (1213).",
+    "doi": "https://doi.org/10.26434/chemrxiv-2024-4fcbq",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Photocatalytic Dehalogenative Deuteration of Halides over a Robust Metal–Organic Framework.",
+    "authors": "Luo, T.; Wang, Z.; Chen, Y.; Li, H.; Peng, M.; Tuna, F.; McInnes, E. J. L.; Day, S. J.; An, J.; Schröder, M.; Yang, S.",
+    "citation": "Angew. Chem. Int. Ed. 2023, 62 (48), e202306267.",
+    "doi": "https://doi.org/10.1002/anie.202306267",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Application of Iodine as a Catalyst in Aerobic Oxidations: A Sustainable Approach for Thiol Oxidations.",
+    "authors": "Wang, L.; Chen, L.; Qin, Z.; Ni, K.; Li, X.; Yu, Z.; Kuang, Z.; Qin, X.; Duan, H.; An, J.",
+    "citation": "Molecules 2023, 28 (19), 6789.",
+    "doi": "https://doi.org/10.3390/molecules28196789",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Inhibitory Mechanism of Quercimeritrin as a Novel α-Glucosidase Selective Inhibitor.",
+    "authors": "Guo, F.; An, J.; Wang, M.; Zhang, W.; Chen, C.; Mao, X.; Liu, S.; Wang, P.; Ren, F.",
+    "citation": "Foods 2023, 12 (18), 3415.",
+    "doi": "https://doi.org/10.3390/foods12183415",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Redox-Click Chemistry for Disulfide Formation from Thiols.",
+    "authors": "Li, H.; Peng, M.; Li, J.; Do, H.; Ni, K.; Wang, M.; Yuan, Z.; Wang, L.; Zhao, T.; Zhang, X.; Li, Y.; Wang, R.; Wang, P.; Zhang, X.; Gao, T.; Yu, S.; Qiao, K.; Li, D.; Ren, F.; An, J.",
+    "citation": "ChemRxiv 2023 (0424).",
+    "doi": "https://doi.org/10.26434/chemrxiv-2023-s3mv7",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Reductive Deuteration of Acyl Chlorides for the Synthesis of α,α-Dideuterio Alcohols Using SmI2 and D2O.",
+    "authors": "Li, H.; Hou, Y.; Peng, M.; Wang, L.; Li, J.; Ning, L.; Lai, Z.; Li, Y.; An, J.",
+    "citation": "Molecules 2023, 28 (1), 416.",
+    "doi": "https://doi.org/10.3390/molecules28010416",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Sequential Iron-Catalyzed C(Sp2)–C(Sp3) Cross-Coupling of Chlorobenzamides/Chemoselective Amide Reduction and Reductive Deuteration to Benzylic Alcohols.",
+    "authors": "Bisz, E.; Podchorodecka, P.; Li, H.; Ochędzan-Siodłak, W.; An, J.; Szostak, M.",
+    "citation": "Molecules 2023, 28 (1), 223.",
+    "doi": "https://doi.org/10.3390/molecules28010223",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Suzuki–Miyaura Cross-Coupling of Aryl Fluorosulfonates Mediated by Air- and Moisture-Stable [Pd(NHC)(μ-Cl)Cl]2 Precatalysts: Broad Platform for C–O Cross-Coupling of Stable Phenolic Electrophiles.",
+    "authors": "Yang, S.; Li, H.; Yu, X; An, J.; Szostak, M.",
+    "citation": "J. Org. Chem. 2022, 87 (22), 15250–15260.",
+    "doi": "https://doi.org/10.1021/acs.joc.2c01778",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Pentafluorophenyl Group as Activating Group: Synthesis of α-Deuterio Carboxylic Acid Derivatives via Et3N Catalyzed H/D Exchange.",
+    "authors": "Peng, M.; Li, H.; Qin, Z.; Li, J.; Sun, Y.; Zhang, X.; Jiang, L.; Do, H.; An, J.",
+    "citation": "Adv. Synth. Catal. 2022, 364 (13), 2184–2189.",
+    "doi": "https://doi.org/10.1002/adsc.202200258",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "One-Pot Sequential Hydrogen Isotope Exchange/Reductive Deuteration for the Preparation of α,β-Deuterated Alcohols Using Deuterium Oxide.",
+    "authors": "Li, H.; Lai, Z.; Peng, M.; Ning, L.; Dong, Q.; Hou, Y.; An, J.",
+    "citation": "Org. Lett. 2022, 24 (29), 5319–5323.",
+    "doi": "https://doi.org/10.1021/acs.orglett.2c01940",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "A Reductive Deuteration Approach to the Efficient Synthesis of Deuterated Polymers.",
+    "authors": "Ning, L.; Wang, L.; Peng, M.; Qin, Z.; Li, H.; Liu, S.; Dong, Y.; An, J.",
+    "citation": "Synlett 2022, 33 (8), 771–776.",
+    "doi": "https://doi.org/10.1055/a-1796-7064",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Methanol as the C1 Source: Redox Coupling of Nitrobenzenes and Alcohols for the Synthesis of Benzimidazoles.",
+    "authors": "Li, H.; Zhang, Y.; Yan, Z.; Lai, Z.; Yang, R.; Peng, M.; Sun, Y.; An, J.",
+    "citation": "Green Chem. 2022, 24 (2), 748–753.",
+    "doi": "https://doi.org/10.1039/D1GC03907E",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Construction of C-C Bonds via Photoreductive Coupling of Ketones and Aldehydes in the Metal-Organic-Framework MFM-300(Cr).",
+    "authors": "Luo, T.; Li, L.; Chen, Y.; An, J.; Liu, C.; Yan, Z.; Carter, J. H.; Han, X.; Sheveleva, A. M.; Tuna, F.; McInnes, E. J. L.; Tang, C. C.; Schröder, M.; Yang, S.",
+    "citation": "Nat Commun 2021, 12 (1), 3583.",
+    "doi": "https://doi.org/10.1038/s41467-021-23302-w",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Tandem H/D Exchange-SET Reductive Deuteration Strategy for the Synthesis of α,β-Deuterated Amines Using D2O.",
+    "authors": "Luo, S.; Weng, C.; Qin, Z.; Li, K.; Zhao, T.; Ding, Y.; Ling, C.; Ma, Y.; An, J.",
+    "citation": "J. Org. Chem. 2021, 86 (17), 11862–11870.",
+    "doi": "https://doi.org/10.1021/acs.joc.1c01276",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Synthesis of α-Deuterated Primary Amines via Reductive Deuteration of Oximes Using D2O as a Deuterium Source.",
+    "authors": "Ning, L.; Li, H.; Lai, Z.; Szostak, M.; Chen, X.; Dong, Y.; Jin, S.; An, J.",
+    "citation": "J. Org. Chem. 2021, 86 (3), 2907–2916.",
+    "doi": "https://doi.org/10.1021/acs.joc.0c02829",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Acyl Fluorides as Direct Precursors to Fluoride Ketyl Radicals: Reductive Deuteration Using SmI2 and D2O.",
+    "authors": "Li, H.; Peng, M.; Lai, Z.; Ning, L.; Chen, X.; Zhang, X.; Wang, P.; Szostak, R.; Szostak, M.; An, J.",
+    "citation": "Chem. Commun. 2021, 57 (42), 5195–5198.",
+    "doi": "https://doi.org/10.1039/D1CC01381E",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Design, Synthesis and Antifungal/Anti-Oomycete Activity of Pyrazolyl Oxime Eters as Novel Potential Succinate Dehydrogenase Inhibitors.",
+    "authors": "Wang, M.; Du, Y.; Ling, C.; Yang, Z.; Jiang, B.; Duan, H.; An, J.; Li, X.; Yang, X.",
+    "citation": "Pest Manag. Sci. 2021, 77 (9), 3910–3920.",
+    "doi": "https://doi.org/10.1002/ps.6418",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Synthesis of α-Deuterioalcohols by Single-Electron Umpolung Reductive Deuteration of Carbonyls Using D2O as Deuterium Source.",
+    "authors": "Li, H.; Hou, Y.; Lai, Z.; Ning, L.; Li, A.; Li, Y; An, J.",
+    "citation": "Synlett 2021, 32 (12), 1241–1245.",
+    "doi": "https://doi.org/10.1055/a-1523-3336",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Protocol for Palladium/N-Heterocyclic Carbene-Catalyzed Suzuki–Miyaura Cross-Coupling of Amides by N–C(O) Activation.",
+    "authors": "Lei, P.; Li, G.; Ling, Y.; An, J.; Nolan, S. P.; Szostak, M.",
+    "citation": "Synthesis 2021, 53 (4), 682–687.",
+    "doi": "https://doi.org/10.1055/s-0040-1705956",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Reductive Deuteration of Aromatic Esters for the Synthesis of α,α-Dideuterio Benzyl Alcohols Using D2O as Deuterium Source.",
+    "authors": "Luo, S.; Weng, C.; Ding, Y.; Ling, C.; Szostak, M.; Ma, X.; An, J.",
+    "citation": "Synlett 2021, 32 (1), 51–56.",
+    "doi": "https://doi.org/10.1055/s-0040-1705944",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Selective C-N σ Bond Cleavage in Azetidinyl Amides under Transition Metal-Free Conditions.",
+    "authors": "Li, H.; Lai, Z.; Adijiang, A.; Zhao, H.; An, J.",
+    "citation": "Molecules 2019, 24 (3), 459.",
+    "doi": "https://doi.org/10.3390/molecules24030459",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "2-Methyltetrahydrofuran (2-MeTHF): A Green Solvent for Pd−NHC-Catalyzed Amide and Ester Suzuki-Miyaura Cross-Coupling by N−C/O−C Cleavage.",
+    "authors": "Lei, P.; Ling, Y.; An, J.; Nolan, S. P.; Szostak, M.",
+    "citation": "Adv. Synth. Catal. 2019, 361 (24), 5654–5660.",
+    "doi": "https://doi.org/10.1002/adsc.201901188",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Reductive Deuteration of Nitriles Using D2O as a Deuterium Source.",
+    "authors": "Ding, Y.; Luo, S.; Weng, C.; An, J.",
+    "citation": "J. Org. Chem. 2019, 84 (23), 15098–15105.",
+    "doi": "https://doi.org/10.1021/acs.joc.9b02056",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Reductive Cleavage of Unactivated Carbon–Cyano Bonds under Ammonia-Free Birch Conditions.",
+    "authors": "Ding, Y.; Luo, S.; Ma, L.; An, J.",
+    "citation": "J. Org. Chem. 2019, 84 (24), 15827–15833.",
+    "doi": "https://doi.org/10.1021/acs.joc.9b02028",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Reduction and Reductive Deuteration of Tertiary Amides Mediated by Sodium Dispersions with Distinct Proton Donor-Dependent Chemoselectivity.",
+    "authors": "Zhang, B.; Li, H.; Ding, Y.; Yan, Y.; An, J.",
+    "citation": "J. Org. Chem. 2018, 83 (11), 6006–6014.",
+    "doi": "https://doi.org/10.1021/acs.joc.8b00617",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Reductive Deuteration of Nitriles: The Synthesis of α,α-Dideuterio Amines by Sodium-Mediated Electron Transfer Reactions.",
+    "authors": "Ding, Y.; Luo, S.; Adijiang, A.; Zhao, H.; An, J.",
+    "citation": "J. Org. Chem. 2018, 83 (19), 12269–12274.",
+    "doi": "https://doi.org/10.1021/acs.joc.8b01730",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "A Practical and Chemoselective Ammonia-Free Birch Reduction.",
+    "authors": "Lei, P.; Ding, Y.; Zhang, X.; Adijiang, A.; Li, H.; Ling, Y.; An, J.",
+    "citation": "Org. Lett. 2018, 20 (12), 3439–3442.",
+    "doi": "https://doi.org/10.1021/acs.orglett.8b00891",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Transition-Metal-Free, Selective Reductive Deuteration of Terminal Alkynes with Sodium Dispersions and EtOD-D1.",
+    "authors": "Han, M.; Ding, Y.; Yan, Y.; Li, H.; Luo, S.; Adijiang, A.; Ling, Y; An, J.",
+    "citation": "Org. Lett. 2018, 20 (10), 3010–3013.",
+    "doi": "https://doi.org/10.1021/acs.orglett.8b01036",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "A Selective and Cost-Effective Method for the Reductive Deuteration of Activated Alkenes.",
+    "authors": "Li, H.; Zhang, B.; Dong, Y.; Liu, T.; Zhang, Y.; Nie, H.; Yang, R.; Ma, X.; Ling, Y.; An, J.",
+    "citation": "Tetrahedron Lett. 2017, 58 (28), 2757–2760.",
+    "doi": "https://doi.org/10.1016/j.tetlet.2017.05.092",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Suzuki–Miyaura Cross-Coupling of Amides and Esters at Room Temperature: Correlation with Barriers to Rotation around C–N and C–O Bonds.",
+    "authors": "Lei, P.; Meng, G.; Shi, S.; Ling, Y.; An, J.; Szostak, R.; Szostak, M.",
+    "citation": "Chem. Sci. 2017, 8 (9), 6525–6530.",
+    "doi": "https://doi.org/10.1039/C7SC02692G",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "General Method for the Suzuki–Miyaura Cross-Coupling of Primary Amide-Derived Electrophiles Enabled by [Pd(NHC)(Cin)Cl] at Room Temperature.",
+    "authors": "Lei, P.; Meng, G.; Ling, Y.; An, J.; Nolan, S. P.; Szostak, M.",
+    "citation": "Org. Lett. 2017, 19 (24), 6510–6513.",
+    "doi": "https://doi.org/10.1021/acs.orglett.7b03191",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Pd-PEPPSI: Pd-NHC Precatalyst for Suzuki–Miyaura Cross-Coupling Reactions of Amides.",
+    "authors": "Lei, P.; Meng, G.; Ling, Y.; An, J.; Szostak, M.",
+    "citation": "J. Org. Chem. 2017, 82 (13), 6638–6646.",
+    "doi": "https://doi.org/10.1021/acs.joc.7b00749",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Development of a Modified Bouveault–Blanc Reduction for the Selective Synthesis of α,α-Dideuterio Alcohols.",
+    "authors": "Han, M.; Ma, X.; Yao, S.; Ding, Y.; Yan, Z.; Adijiang, A.; Wu, Y.; Li, H.; Zhang, Y.; Lei, P.; Ling, Y.; An, J.",
+    "citation": "J. Org. Chem. 2017, 82 (2), 1285–1290.",
+    "doi": "https://doi.org/10.1021/acs.joc.6b02950",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Synthesis of Quaternary Aryl Phosphonium Salts: Photoredox-Mediated Phosphine Arylation.",
+    "authors": "Fearnley, A. F.; An, J.; Jackson, M.; Lindovska, P.; Denton, R. M.",
+    "citation": "Chem. Commun. 2016, 52 (28), 4987–4990.",
+    "doi": "https://doi.org/10.1039/C6CC00556J",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "The Development of Catalytic Nucleophilic Substitution Reactions: Challenges, Progress and Future Directions.",
+    "authors": "An, J.; Denton, R. M.; Lambert, T. H.; Nacsa, E. D.",
+    "citation": "Org. Biomol. Chem. 2014, 12 (19), 2993–3003.",
+    "doi": "https://doi.org/10.1039/C4OB00032C",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "A Procedure for Appel Halogenations and Dehydrations Using a Polystyrene Supported Phosphine Oxide.",
+    "authors": "Tang, X.; An, J.; Denton, R. M.",
+    "citation": "Tetrahedron Lett. 2014, 55 (4), 799–802.",
+    "doi": "https://doi.org/10.1016/j.tetlet.2013.11.098",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Evaluating a Sodium Dispersion Reagent for the Bouveault–Blanc Reduction of Esters.",
+    "authors": "An, J.; Work, D. N.; Kenyon, C.; Procter, D. J.",
+    "citation": "J. Org. Chem. 2014, 79 (14), 6743–6747.",
+    "doi": "https://doi.org/10.1021/jo501093g",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Heteroatom Methods.",
+    "authors": "An, J.; Denton, R. M.",
+    "citation": "Annu. Rep. Prog. Chem., Sect. B: Org. Chem. 2013, 109, 167–188.",
+    "doi": "https://doi.org/10.1039/C3OC90010J",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Phosphorus(V)-Catalyzed Deoxydichlorination Reactions of Aldehydes.",
+    "authors": "An, J.; Tang, X.; Moore, J.; Lewis, W.; Denton, R. M.",
+    "citation": "Tetrahedron 2013, 69 (41), 8769–8776.",
+    "doi": "https://doi.org/10.1016/j.tet.2013.07.100",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Phosphonium Salt-Catalysed Synthesis of Nitriles from in Situ Activated Oximes.",
+    "authors": "Denton, R. M.; An, J.; Lindovska, P.; Lewis, W.",
+    "citation": "Tetrahedron 2012, 68 (13), 2899–2905.",
+    "doi": "https://doi.org/10.1016/j.tet.2012.01.067",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Catalytic Phosphorus(V)-Mediated Nucleophilic Substitution Reactions: Development of a Catalytic Appel Reaction.",
+    "authors": "Denton, R. M.; An, J.; Adeniran, B.; Blake, A. J.; Lewis, W.; Poulton, A. M.",
+    "citation": "J. Org. Chem. 2011, 76 (16), 6749–6767.",
+    "doi": "https://doi.org/10.1021/jo201085r",
+    "isFeatured": false,
+    "image": ""
+  },
+  {
+    "title": "Phosphine Oxide-Catalysed Chlorination Reactions of Alcohols under Appel Conditions.",
+    "authors": "Denton, R. M.; An, J.; Adeniran, B.",
+    "citation": "Chem. Commun. 2010, 46 (17), 3025–3027.",
+    "doi": "https://doi.org/10.1039/C002825H",
+    "isFeatured": false,
+    "image": ""
+  }
+]

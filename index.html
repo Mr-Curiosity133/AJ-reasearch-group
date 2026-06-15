@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AJ Research Group | 首页</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body class="page-home">
+  <header class="site-header">
+    <nav class="nav-container">
+      <a href="index.html" class="logo"><img src="images/logo/LOGO.png" alt="AJ Research Group" class="logo-img" /></a>
+      <ul class="nav-links">
+        <li><a href="index.html" class="nav-current" data-i18n="nav.home">首页</a></li>
+        <li><a href="anjie.html" data-i18n="nav.anjie">安杰</a></li>
+        <li><a href="research.html" data-i18n="nav.research">研究方向</a></li>
+        <li><a href="news.html" data-i18n="nav.news">新闻</a></li>
+        <li><a href="publications.html" data-i18n="nav.publications">已发表成果</a></li>
+        <li><a href="gallery.html" data-i18n="nav.gallery">课题组照片</a></li>
+        <li><a href="contact.html" data-i18n="nav.contact">联系我们</a></li>
+      </ul>
+      <button type="button" class="lang-toggle" id="langToggle" aria-label="切换语言">
+        <span class="lang-zh">中文</span>
+        <span class="lang-en">EN</span>
+      </button>
+      <button type="button" class="nav-toggle" aria-label="打开菜单">
+        <span></span><span></span><span></span>
+      </button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section section-hero">
+      <div class="hero">
+        <div class="hero-content">
+          <h1 class="hero-title">AJ Research Group</h1>
+          <p class="hero-slogan" data-i18n="hero.slogan">探索未知 · 创新未来</p>
+        </div>
+        <div class="scroll-indicator" id="scrollIndicator">
+          <span>&#8595;</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- 课题组简介 -->
+    <section class="section section-overview">
+      <div class="container">
+        <div class="overview-content">
+          <p class="overview-welcome">欢迎访问 AJ Research Group</p>
+          <div class="overview-photo">
+            <img src="images/team/group-2025-12.jpg" alt="课题组合影" />
+          </div>
+          <p class="overview-text">
+            我们是中国农业大学营养与健康系专注于化学合成的研究小组，立足于有机化学合成方法学，发展高选择性、高效率、可模块化的分子连接与材料构筑策略。团队围绕 SuFEx 点击化学、二硫键化学、有机–无机界面连接和功能聚合物设计等方向开展研究，致力于将基础反应方法转化为可用于功能材料和生物医用材料开发的通用化学工具。
+          </p>
+          <p class="overview-text">
+            通过整合材料化学、分析化学、化学生物学和细胞生物学，我们进一步探索这些化学策略在抗菌与抗氧化材料、活性分子递送、可响应水凝胶、功能涂层和生物界面调控中的应用。我们希望建立从"反应机制"到"材料结构"，再到"生物功能"的完整研究路径，为生命健康相关功能材料的精准设计提供新的化学基础。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- 已发表成果：4 篇滚动播放 -->
+    <section class="section section-pub-carousel">
+      <div class="container">
+        <h2 class="section-title" data-i18n="home.pubCarouselTitle">已发表成果</h2>
+        <div class="pub-carousel-wrap">
+          <button type="button" class="carousel-btn carousel-prev" aria-label="上一篇">‹</button>
+          <button type="button" class="carousel-btn carousel-next" aria-label="下一篇">›</button>
+          <div class="pub-carousel" id="homePubCarousel">
+            <!-- 前 4 条成果由 js/carousel.js 从 publications.json 动态填充 -->
+          </div>
+          <div class="carousel-dots" aria-hidden="true"></div>
+        </div>
+        <p class="carousel-more">
+          <a href="publications.html" data-i18n="home.viewAllPublications">查看全部已发表成果 →</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- 联系我们（首页简版） -->
+    <section class="section section-contact-home">
+      <div class="container">
+        <h2 class="section-title" data-i18n="contact.title">联系我们</h2>
+        <div class="contact-home-grid">
+          <div class="contact-home-block">
+            <p><strong data-i18n="contact.address">通讯地址</strong><br /><span data-i18n="contact.addressValue">北京市海淀区清华东路17号（中国农业大学营养与健康研究院）</span></p>
+          </div>
+          <div class="contact-home-block">
+            <p><strong data-i18n="contact.email">PI 邮箱</strong><br /><a href="mailto:jie_an@cau.edu.cn">jie_an@cau.edu.cn</a><br /><a href="mailto:anjiecr@gmail.com">anjiecr@gmail.com</a></p>
+          </div>
+        </div>
+        <p class="contact-home-more">
+          <a href="contact.html" data-i18n="home.viewContactPage">地图与加入我们 →</a>
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© AJ Research Group. <span data-i18n="footer.rights">保留所有权利</span></p>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/carousel.js"></script>
+</body>
+</html>

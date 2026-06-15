@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>课题组照片 | AJ Research Group</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body class="page-gallery page-inner">
+  <header class="site-header">
+    <nav class="nav-container">
+      <a href="index.html" class="logo"><img src="images/logo/LOGO.png" alt="AJ Research Group" class="logo-img" /></a>
+      <ul class="nav-links">
+        <li><a href="index.html" data-i18n="nav.home">首页</a></li>
+        <li><a href="anjie.html" data-i18n="nav.anjie">安杰</a></li>
+        <li><a href="research.html" data-i18n="nav.research">研究方向</a></li>
+        <li><a href="news.html" data-i18n="nav.news">新闻</a></li>
+        <li><a href="publications.html" data-i18n="nav.publications">已发表成果</a></li>
+        <li><a href="gallery.html" class="nav-current" data-i18n="nav.gallery">课题组照片</a></li>
+        <li><a href="contact.html" data-i18n="nav.contact">联系我们</a></li>
+      </ul>
+      <button type="button" class="lang-toggle" id="langToggle" aria-label="切换语言">
+        <span class="lang-zh">中文</span>
+        <span class="lang-en">EN</span>
+      </button>
+      <button type="button" class="nav-toggle" aria-label="打开菜单">
+        <span></span><span></span><span></span>
+      </button>
+    </nav>
+  </header>
+
+  <main class="inner-main">
+    <section class="section section-gallery-page">
+      <div class="container">
+        <header class="page-header">
+          <h1 class="page-title" data-i18n="gallery.title">课题组照片</h1>
+        </header>
+
+        <nav class="gallery-nav">
+          <button class="gallery-nav-item active" data-category="graduation">毕业留念</button>
+          <button class="gallery-nav-item" data-category="conference">学术会议</button>
+          <button class="gallery-nav-item" data-category="daily">日常活动</button>
+        </nav>
+
+        <div class="gallery-grid-large" id="galleryGrid"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 灯箱 -->
+  <div class="lightbox" id="lightbox" aria-hidden="true">
+    <button type="button" class="lightbox-close" aria-label="关闭">×</button>
+    <button type="button" class="lightbox-prev" aria-label="上一张">‹</button>
+    <button type="button" class="lightbox-next" aria-label="下一张">›</button>
+    <div class="lightbox-content">
+      <img src="" alt="" />
+      <p class="lightbox-caption"></p>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© AJ Research Group. <span data-i18n="footer.rights">保留所有权利</span></p>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/gallery.js"></script>
+</body>
+</html>

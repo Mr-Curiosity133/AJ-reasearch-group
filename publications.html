@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>已发表成果 | AJ Research Group</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body class="page-publications page-inner">
+  <header class="site-header">
+    <nav class="nav-container">
+      <a href="index.html" class="logo"><img src="images/logo/LOGO.png" alt="AJ Research Group" class="logo-img" /></a>
+      <ul class="nav-links">
+        <li><a href="index.html" data-i18n="nav.home">首页</a></li>
+        <li><a href="anjie.html" data-i18n="nav.anjie">安杰</a></li>
+        <li><a href="research.html" data-i18n="nav.research">研究方向</a></li>
+        <li><a href="news.html" data-i18n="nav.news">新闻</a></li>
+        <li><a href="publications.html" class="nav-current" data-i18n="nav.publications">已发表成果</a></li>
+        <li><a href="gallery.html" data-i18n="nav.gallery">课题组照片</a></li>
+        <li><a href="contact.html" data-i18n="nav.contact">联系我们</a></li>
+      </ul>
+      <button type="button" class="lang-toggle" id="langToggle" aria-label="切换语言">
+        <span class="lang-zh">中文</span>
+        <span class="lang-en">EN</span>
+      </button>
+      <button type="button" class="nav-toggle" aria-label="打开菜单">
+        <span></span><span></span><span></span>
+      </button>
+    </nav>
+  </header>
+
+  <main class="inner-main">
+    <section class="section section-publications-page">
+      <div class="container">
+        <header class="page-header">
+          <h1 class="page-title" data-i18n="publications.title">已发表成果</h1>
+          <p class="page-lead" data-i18n="publications.lead">点击卡片跳转至论文原文（DOI）</p>
+        </header>
+
+        <section class="pub-featured-section">
+          <h2 class="pub-featured-heading" data-i18n="publications.featuredTitle">代表性成果</h2>
+          <div id="featuredPublications" class="pub-featured-list"></div>
+        </section>
+
+        <section class="pub-more-section">
+          <h2 class="pub-text-list-heading" data-i18n="publications.moreList">更多发表成果</h2>
+          <ol id="morePublications" class="pub-more-list" start="11"></ol>
+        </section>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© AJ Research Group. <span data-i18n="footer.rights">保留所有权利</span></p>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/publications.js"></script>
+</body>
+</html>
